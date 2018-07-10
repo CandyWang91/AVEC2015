@@ -7,7 +7,8 @@ Numpy
 Scipy
 Matplotlib
 Liac-arff 
-Sklearn 
+Sklearn
+Pandas
 
 #HOW TO SET UP
 
