@@ -538,7 +538,6 @@ neigh = NearestNeighbors(n_neighbors=50)
 neigh.fit(gs) 
 NearestNeighbors(algorithm='auto', leaf_size=30)
 A  = neigh.kneighbors_graph(gs)
-A.toarray()
 
 
 distances, indices = neigh.kneighbors(gs)
